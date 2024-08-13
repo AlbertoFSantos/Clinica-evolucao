@@ -412,4 +412,13 @@ html, body{
         .apresentacao__conteudo{
             width: auto;
         }
-    
+    }
+    .apresentacao__imagem1{
+        display: flex;
+        justify-content: center;
+        width: 60%;
+        margin: auto;
+        display: block;
+        padding: 2% 0% 0% 15%;
+
+    }    
